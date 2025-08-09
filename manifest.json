@@ -6,7 +6,7 @@
   "location": {
     "support": {
       "ticket_sidebar": {
-        "url": "assets/index.html"
+        "url": "https://zendesk.netlify.app"
       }
     }
   },
